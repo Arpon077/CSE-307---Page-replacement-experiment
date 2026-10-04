@@ -1,4 +1,4 @@
-# Track 1 — Learned Page Replacement
+# Track 1 — Page Replacement
 
 A small, reproducible CSE-307 Operating Systems experiment comparing **FIFO**, **LRU**, **Optimal (Belady)**, and a transparent **learned eviction policy**.
 
