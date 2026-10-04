@@ -1,0 +1,23 @@
+{
+  "frames": 6,
+  "trace_length": 480,
+  "shift_at": 240,
+  "policies": {
+    "FIFO": {
+      "faults": 353,
+      "hit_ratio": 0.2646
+    },
+    "LRU": {
+      "faults": 18,
+      "hit_ratio": 0.9625
+    },
+    "Optimal": {
+      "faults": 18,
+      "hit_ratio": 0.9625
+    },
+    "Learned": {
+      "faults": 288,
+      "hit_ratio": 0.4
+    }
+  }
+}
